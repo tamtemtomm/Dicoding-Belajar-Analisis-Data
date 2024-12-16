@@ -10,5 +10,5 @@ pip install -r .\requirements.txt
 
 ## Run steamlit app
 ```
-streamlit .\dashboard\dashboard.py
+streamlit run app.py
 ```
